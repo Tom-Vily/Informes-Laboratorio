@@ -15,6 +15,7 @@ a distintas situaciones a través de los ejemplos y preguntas planteadas en el l
 
 ![](https://cdn.discordapp.com/attachments/977016920224198709/1008939054039052329/unknown.png)
 ![](https://cdn.discordapp.com/attachments/977016920224198709/1008943434792448040/unknown.png)
+![](https://cdn.discordapp.com/attachments/977016920224198709/1008947680413757460/unknown.png)
 
 ## 3.Explicación del Procedimiento
 
