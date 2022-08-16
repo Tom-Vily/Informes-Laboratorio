@@ -32,30 +32,30 @@ Figura 2
 
 ## 3.Explicación del Procedimiento
 
-Mediciones en los circuitos 
+### Mediciones en los circuitos 
 
-Figura 1
-Medicion de Voltaje con Multimetro
+#### Figura 1
+#### Medicion de Voltaje con Multimetro
 ![](https://cdn.discordapp.com/attachments/977016920224198709/1008925640730357780/unknown.png)
 
-Figura 2
-Medicion de Voltaje con Multimetro
+#### Figura 2
+#### Medicion de Voltaje con Multimetro
 ![](https://cdn.discordapp.com/attachments/977016920224198709/1008926825231167518/unknown.png)
 
-Figura 1
-Medicion de Voltaje con osciloscopio
+#### Figura 1
+#### Medicion de Voltaje con osciloscopio
 ![](https://cdn.discordapp.com/attachments/977016920224198709/1008928762798280794/unknown.png)
 
-Figura 2
-Medicion de Voltaje con osciloscopio
+#### Figura 2
+#### Medicion de Voltaje con osciloscopio
 ![](https://cdn.discordapp.com/attachments/977016920224198709/1008929637797212220/unknown.png)
 
-Figura 1
-Medicion de corriente con multimetro
+#### Figura 1
+#### Medicion de corriente con multimetro
 ![](https://cdn.discordapp.com/attachments/977016920224198709/1008936554263228557/unknown.png)
 
-Figura 2
-Medicion de corriente con multimetro
+#### Figura 2
+#### Medicion de corriente con multimetro
 ![](https://cdn.discordapp.com/attachments/977016920224198709/1008936914360995891/unknown.png)
 
 ## 4.Respuestas a Interrogantes
