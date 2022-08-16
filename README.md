@@ -12,26 +12,27 @@ a distintas situaciones a través de los ejemplos y preguntas planteadas en el l
 -Conocer cómo funciona un inductor y las características físicas y eléctricas de este componente
 
 ## 2.Marco Teórico
-Materiales y equipos.
 
-![](https://cdn.discordapp.com/attachments/977016920224198709/1008934317990354994/unknown.png)
-
-Procedimiento.
-Se procede a recrear el circuito mostrado en el esquema siguiente de forma real y en un simulador
-Figura 1
-
-![](https://cdn.discordapp.com/attachments/977016920224198709/1008934838180524194/unknown.png)
-![](https://cdn.discordapp.com/attachments/977016920224198709/1008924053660250233/unknown.png)
-
-Figura 2
-
-![](https://cdn.discordapp.com/attachments/977016920224198709/1008934888545722461/unknown.png)
-![](https://cdn.discordapp.com/attachments/977016920224198709/1008924624161091624/unknown.png)
-
+![](https://cdn.discordapp.com/attachments/977016920224198709/1008939054039052329/unknown.png)
 
 
 ## 3.Explicación del Procedimiento
 
+#### Materiales y equipos.
+
+![](https://cdn.discordapp.com/attachments/977016920224198709/1008934317990354994/unknown.png)
+
+#### Procedimiento.
+#### Se procede a recrear el circuito mostrado en el esquema siguiente de forma real y en un simulador
+#### Figura 1
+
+![](https://cdn.discordapp.com/attachments/977016920224198709/1008934838180524194/unknown.png)
+![](https://cdn.discordapp.com/attachments/977016920224198709/1008924053660250233/unknown.png)
+
+#### Figura 2
+
+![](https://cdn.discordapp.com/attachments/977016920224198709/1008934888545722461/unknown.png)
+![](https://cdn.discordapp.com/attachments/977016920224198709/1008924624161091624/unknown.png)
 ### Mediciones en los circuitos 
 
 #### Figura 1
@@ -57,6 +58,15 @@ Figura 2
 #### Figura 2
 #### Medicion de corriente con multimetro
 ![](https://cdn.discordapp.com/attachments/977016920224198709/1008936914360995891/unknown.png)
+
+#### Medicione de Volataje de Capacitor e Inductor
+#### Mediciones En Capacitores
+
+![]()
+
+#### Mediciones en Inductores
+
+![]()
 
 ## 4.Respuestas a Interrogantes
 
