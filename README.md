@@ -78,6 +78,25 @@ a distintas situaciones a través de los ejemplos y preguntas planteadas en el l
 
 ## 4.Respuestas a Interrogantes
 
+1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+No existia una variacion en la osciloscopio indicando que la corriente tenia unicamente una solo sola dirección
+
+2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+La freciencia modificara el valor pico pero no en gran medida ya que solo consta de cambios pequeños que se veran de manera gráfica en el osciloscopio
+
+3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los
+circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
+distintos?
+
+El voltaje variaria y tension variaria debido a estos cambios en los compentes asu vez los valores de las resistencias se modificarian pero no en gran medida
+debido a los efectos que producen estos en los circuitos
+
+4.- ¿Qué son los valores eficaces de voltaje y corriente?
+
+Seria el valor que tomaria un voltaje o corriente continua que al aplicarla sobre la resistencia del mismo valor esto produciria una potencia de igual valor que al aplicar la corriente o voiltaje alterno 
+
 ## 5.Video
 
 ## 6.Conclusiones
