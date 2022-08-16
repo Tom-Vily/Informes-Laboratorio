@@ -81,8 +81,11 @@ a distintas situaciones a través de los ejemplos y preguntas planteadas en el l
 -Los capacitores son elementos que almacenan energía de forma que sus electrones en sus placas metálicas se ordenarán siguiendo el sentido de la corriente pero no funciona igual que una batería ya que estos liberan toda la energía de forma inmediata al no poner guardar más dentro de ellos siendo una herramienta que puede tener múltiples usos
 
 ## 7.Bibliografía
-Chacon. (2015). Inductacias en circuitos. Recuperado de:https://programmingbeta.wordpress.com/inductancias-diodos/
+Chacon. (2015). Inductacias en circuitos. Recuperado de:
+https://programmingbeta.wordpress.com/inductancias-diodos/
 
-Market. (Enero de 2018). Caracteristicas de un inductor. Recuperado de:http://www.inductors-china.com/info/inductor-characteristics-21359630.html
+Market. (Enero de 2018). Caracteristicas de un inductor. Recuperado de:
+http://www.inductors-china.com/info/inductor-characteristics-21359630.html
 
-Alvaro Arturo. ( 24 de abril de 2014) Inductores. recuperado de https://electronicaonline.net/componentes-electronicos/inductor/
+Alvaro Arturo. ( 24 de abril de 2014) Inductores. recuperado de 
+https://electronicaonline.net/componentes-electronicos/inductor/
