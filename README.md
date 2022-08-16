@@ -66,9 +66,15 @@ a distintas situaciones a través de los ejemplos y preguntas planteadas en el l
 
 ![](https://cdn.discordapp.com/attachments/977016920224198709/1008944638058573884/unknown.png)
 
-#### Mediciones en de corriente con osciloscopio
+#### Mediciones de voltaje con osciloscopio
 
-![]()
+##### Capacitores
+
+![](https://cdn.discordapp.com/attachments/977016920224198709/1008951391244529734/unknown.png)
+
+##### Inductores
+
+![](https://cdn.discordapp.com/attachments/977016920224198709/1008951674347474954/unknown.png)
 
 ## 4.Respuestas a Interrogantes
 
