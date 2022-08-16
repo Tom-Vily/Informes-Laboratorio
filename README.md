@@ -60,6 +60,7 @@ a distintas situaciones a través de los ejemplos y preguntas planteadas en el l
 ![](https://cdn.discordapp.com/attachments/977016920224198709/1008936914360995891/unknown.png)
 
 #### Medicione de Volataje de Capacitor e Inductor
+
 #### Mediciones En Capacitores
 
 ![]()
