@@ -61,11 +61,11 @@ a distintas situaciones a través de los ejemplos y preguntas planteadas en el l
 
 #### Medicione de Volataje de Capacitor e Inductor
 
-#### Mediciones En Capacitores
+#### Mediciones de corriente con Multimetro
 
-![]()
+![](https://cdn.discordapp.com/attachments/977016920224198709/1008944638058573884/unknown.png)
 
-#### Mediciones en Inductores
+#### Mediciones en de corriente con osciloscopio
 
 ![]()
 
