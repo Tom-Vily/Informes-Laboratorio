@@ -10,9 +10,37 @@ a distintas situaciones a través de los ejemplos y preguntas planteadas en el l
 -Reconocer el funcionamiento de los capacitores y cómo interactúan al momento de estar en un circuito eléctrico
 
 -Conocer cómo funciona un inductor y las características físicas y eléctricas de este componente
+
 ## 2.Marco Teórico
+Materiales y equipos.
+
+![](https://cdn.discordapp.com/attachments/977016920224198709/1008934317990354994/unknown.png)
+
+Procedimiento.
+Se procede a recrear el circuito mostrado en el esquema siguiente de forma real y en un simulador
+Figura 1
+
+![](https://cdn.discordapp.com/attachments/977016920224198709/1008934838180524194/unknown.png)
+![](https://cdn.discordapp.com/attachments/977016920224198709/1008924053660250233/unknown.png)
+
+Figura 2
+
+![](https://cdn.discordapp.com/attachments/977016920224198709/1008934888545722461/unknown.png)
+![](https://cdn.discordapp.com/attachments/977016920224198709/1008924624161091624/unknown.png)
+
+
 
 ## 3.Explicación del Procedimiento
+
+Mediciones en los circuitos 
+
+Figura 1
+
+![](https://cdn.discordapp.com/attachments/977016920224198709/1008925640730357780/unknown.png)
+
+Figura 2
+
+![](https://cdn.discordapp.com/attachments/977016920224198709/1008926825231167518/unknown.png)
 
 ## 4.Respuestas a Interrogantes
 
