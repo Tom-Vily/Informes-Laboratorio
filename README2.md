@@ -59,7 +59,7 @@ w= 2pi/T = 2pi/0.00045 = 13962.6 (rad/s)
 
 ![](https://cdn.discordapp.com/attachments/977016920224198709/1010206488578510848/unknown.png)
 
-### Periodo: 0.45 s
+### Periodo: 0.45 ms
 
 ![](https://cdn.discordapp.com/attachments/977016920224198709/1010206641800618084/unknown.png)
 
