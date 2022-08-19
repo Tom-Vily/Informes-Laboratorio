@@ -49,6 +49,7 @@ el cual es una fraccion de este valor real mostrado anteriormente
 ### Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
 f= 1/T = 1/0.31 = 3.2 (Hz)
+
 w= 2pi/T = 2pi/0.31 = 20.3 (rad/s)
 
 ![](https://cdn.discordapp.com/attachments/977016920224198709/1010016633395351633/unknown.png)
