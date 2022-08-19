@@ -64,4 +64,4 @@ la resolución o simplificación de un circuito con CA
 magnitudes como frecuencia, periodo, valor pico y desfase dandonos estos elementos información para posibles soluciones o fórmulas
 que sean necesarios para nuestros ejercicios
 
-#3 7.Bilbiografía
+### 7.Bilbiografía
