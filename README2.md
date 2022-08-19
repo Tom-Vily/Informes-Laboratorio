@@ -42,6 +42,15 @@ abarca 3 ciclos completos
 ### ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 Amplitud de voltaje: 6.4 V
 
+### Compare el voltaje medido en el osciloscopio  y el obtenido en el multímetro. ¿Coinciden?.¿Por qué?
+No coinciden devido a que el valor mostrado en el osciloscopiop es el valor "real" del voltaje y el valor mostrado en el multimetro es el valor promedio 
+el cual es una fraccion de este valor real mostrado anteriormente
+
+### Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
+
+f= 1/T = 1/0.31 = 3.2 (Hz)
+w= 2pi/T = 2pi/0.31 = 20.3 (rad/s)
+
 ![](https://cdn.discordapp.com/attachments/977016920224198709/1010016633395351633/unknown.png)
 
 ### Periodo: 0.31 s
@@ -64,4 +73,4 @@ la resolución o simplificación de un circuito con CA
 magnitudes como frecuencia, periodo, valor pico y desfase dandonos estos elementos información para posibles soluciones o fórmulas
 que sean necesarios para nuestros ejercicios
 
-### 7.Bilbiografía
+## 7.Bilbiografía
