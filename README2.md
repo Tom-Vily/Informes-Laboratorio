@@ -32,19 +32,20 @@ una frecuencia de 2.5 Khz.
 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.
 
-![](https://cdn.discordapp.com/attachments/977016920224198709/1010015985815801896/unknown.png)
+![](https://cdn.discordapp.com/attachments/977016920224198709/1010206488578510848/unknown.png)
+
 ## 4.Respuestas a Interrogantes
 
 ### ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 Abarca 5 divisiones
 ### ¿En qué valor está posicionada la perilla VOLTS/DIV?
-esta posicionado en 10
+En esta esta posicionado en 10 cuando se mide haciendo el corte y cuando se mide RL la perilla se posiciona en 3
 ### ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 abarca 3 ciclos completos
 ### ¿En qué valor está posicionada la perilla TIME/DIV?
 0.1 m
 ### ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
-Amplitud de voltaje: 6.4 V
+la amplitud es 6.42
 
 ### Compare el voltaje medido en el osciloscopio  y el obtenido en el multímetro. ¿Coinciden?.¿Por qué?
 No coinciden devido a que el valor mostrado en el osciloscopiop es el valor "real" del voltaje y el valor mostrado en el multimetro es el valor promedio 
@@ -52,15 +53,15 @@ el cual es una fraccion de este valor real mostrado anteriormente
 
 ### Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-f= 1/T = 1/0.31 = 3.2 (Hz)
+f= 1/T = 1/0.00045 = 2222.2 (Hz)
 
-w= 2pi/T = 2pi/0.31 = 20.3 (rad/s)
+w= 2pi/T = 2pi/0.00045 = 13962.6 (rad/s)
 
-![](https://cdn.discordapp.com/attachments/977016920224198709/1010016633395351633/unknown.png)
+![](https://cdn.discordapp.com/attachments/977016920224198709/1010206488578510848/unknown.png)
 
-### Periodo: 0.31 s
+### Periodo: 0.45 s
 
-![](https://cdn.discordapp.com/attachments/977016920224198709/1010016770666532864/unknown.png)
+![](https://cdn.discordapp.com/attachments/977016920224198709/1010206641800618084/unknown.png)
 
 ### Con el multímetro digital mida el voltaje de salida en RL:
 
