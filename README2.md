@@ -9,8 +9,12 @@
 - Reconocer las características de una onda sinusoidal 
 
 ## 2.Marco Teórico
+
+![](https://cdn.discordapp.com/attachments/977016920224198709/1010035917861437481/unknown.png)
+
+![](https://cdn.discordapp.com/attachments/977016920224198709/1010035944583340032/unknown.png)
+
 ## 3.Explicación del Procedimiento
-### Materiales
 
 Circuito esquema
 
@@ -75,3 +79,7 @@ magnitudes como frecuencia, periodo, valor pico y desfase dandonos estos element
 que sean necesarios para nuestros ejercicios
 
 ## 7.Bilbiografía
+
+- Fanny Zapata. (20 de agosto del 2019). Caracteristicas partes de una onda sinosoidal. Recuperado de: https://www.lifeder.com/onda-senoidal/
+- Jose Franciasco. (4 de septiembre de 2018). Onda o señal sinosoidal.  Recuperado de: https://cifpn1.com/electronica/?p=4113
+
