@@ -37,11 +37,11 @@ el osciloscopio.
 ## 4.Respuestas a Interrogantes
 
 ### ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
-Abarca 5 divisiones
+Abarca 2.3 divisiones
 ### ¿En qué valor está posicionada la perilla VOLTS/DIV?
 En esta esta posicionado en 10 cuando se mide haciendo el corte y cuando se mide RL la perilla se posiciona en 3
 ### ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
-abarca 3 ciclos completos
+abarca 4 ciclos completos
 ### ¿En qué valor está posicionada la perilla TIME/DIV?
 0.1 m
 ### ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
@@ -65,7 +65,7 @@ w= 2pi/T = 2pi/0.00045 = 13962.6 (rad/s)
 
 ### Con el multímetro digital mida el voltaje de salida en RL:
 
-![](https://cdn.discordapp.com/attachments/977016920224198709/1010016878946689154/unknown.png)
+![](https://cdn.discordapp.com/attachments/977016920224198709/1010247677847552010/unknown.png)
 
 El voltaje es 9.907 V
 ## 5.Video
